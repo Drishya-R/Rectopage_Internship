@@ -1,0 +1,604 @@
+{
+    "questions" : [
+        {
+            "question_number": 1,
+            "question": "Which one of the following is NOT necessarily a property of a Group?",
+            "options": [
+                "Commutativity",
+                "Associativity",
+                "Existence of inverse for every element",
+                "Existence of identity"
+            ],
+            "correct_answer": "Commutativity",
+            "correct_option_number": 1
+        },
+        {
+            "question_number": 2,
+            "question": "What is the chromatic number of an n-vertex simple connected graph which does not contain any odd length cycle? Assume n>=2",
+            "options": [
+                "2",
+                "3",
+                "n-1",
+                "n"
+            ],
+            "correct_answer": "2",
+            "correct_option_number": 1
+        },
+        {
+            "question_number": 3,
+            "question": "Which one of the following is TRUE for any simple connected undirected graph with more than 2 vertices?",
+            "options": [
+                "No two vertices have the same degree",
+                "At least two vertices have the same degree",
+                "At least three vertices have the same degree",
+                " All vertices have the same degree "
+            ],
+            "correct_answer": "At least three vertices have the same degree",
+            "correct_option_number": 3
+        },
+        {
+            "question_number": 4,
+            "question": "Consider the binary relation R = {(x, y),(x, z),(z, x),(z, y)}on the set {x,y,z}.Which one the following is TRUE ?",
+            "options": [
+                "R is symmetric but NOT antisymmetric",
+                "R is NOT symmetric but antisymmetric",
+                "R is both symmetric and antisymmetric",
+                "R is neither symmetric nor antisymmetric"
+            ],
+            "correct_answer": "R is neither symmetric nor antisymmetric",
+            "correct_option_number": 4
+        },
+        {
+            "question_number": 5,
+            "question": "(1217)₈ is equivalent to",
+            "options": [
+                "(1217)₁₆",
+                "(028F)₁₆",
+                "(2297)₁₀",
+                "(0B17)₁₆"
+            ],
+            "correct_answer": "(028F)₁₆",
+            "correct_option_number": 2
+        },
+        {
+            "question_number": 6,
+            "question": "What is the minimum number of gates required to implement the Boolean function (AB + C) if we have to use only 2-input NOR gates? ",
+            "options": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "correct_answer": "3",
+            "correct_option_number": 2
+        },
+        {
+            "question_number": 7,
+            "question": "How many 32K × 1 RAM chips are needed to provide a memory capacity of 256 K-bytes = ",
+            "options": [
+                "8",
+                "32",
+                "64",
+                "128"
+            ],
+            "correct_answer": "64",
+            "correct_option_number": 3
+        },
+        {
+            "question_number": 8,
+            "question": "A CPU generally handles an interrupt by executing an interrupt service routine",
+            "options": [
+                "as soon as an interrupt is raised",
+                "by checking the interrupt register at the end of fetch cycle",
+                "by checking the interrupt register after finishing the execution of the current instruction",
+                "by checking the interrupt register at fixed time intervals"
+            ],
+            "correct_answer": "by checking the interrupt register after finishing the execution of the current instruction",
+            "correct_option_number": 3
+        },
+        {
+            "question_number": 9,
+            "question": "In which one of the following page replacement policies, Belady’s anomaly may occur?",
+            "options": [
+                "FIFO",
+                "Optimal",
+                "LRU",
+                "MRU"
+            ],
+            "correct_answer": "FIFO",
+            "correct_option_number": 1
+        },
+        {
+            "question_number": 10,
+            "question": "The essential content(s) in each entry of a page table is/are",
+            "options": [
+                "Virtual page Number",
+                "Page frame number",
+                "Both virtual page number and page frame number",
+                "access right information"
+            ],
+            "correct_answer": "Page frame number",
+            "correct_option_number": 2
+        },
+        {
+            "question_number": 11,
+            "question": "What is the number of swaps required to sort n elements using selection sort, in the worst case? ",
+            "options": [
+                " θ(n)",
+                "θ(n log n)",
+                "θ(n²)",
+                "θ(n² log n)"
+            ],
+            "correct_answer": "θ(n)",
+            "correct_option_number": 1
+        },
+        {
+            "question_number": 12,
+            "question": "S → a Sa| bSb| a| b The language generated by the above grammar over the alphabet {a, b} is the set of ",
+            "options": [
+                "All palindromes",
+                "All odd length palindromes ",
+                "Strings that begin and end with the same symbol",
+                "All even length palindromes"
+            ],
+            "correct_answer": "All odd length palindromes ",
+            "correct_option_number": 2
+        },
+        {
+            "question_number": 13,
+            "question": "Which of the following statement (s) is/are correct regarding Bellman-Ford shortest path algorithm? P. Always find a negative weighted cycle, if one exists. Q. Finds whether any negative weighted cycle is reachable from the source",
+            "options": [
+                "P only",
+                "Q only",
+                "Both P and Q",
+                "Neither P nor Q"
+            ],
+            "correct_answer": "Q only",
+            "correct_option_number": 2
+        },
+        {
+            "question_number": 14,
+            "question": "Let  πₐ be a problem that belongs to the class NP. Then which one of the following is TRUE?",
+            "options": [
+                "There is no polynomial time algorithm for πₐ ",
+                " If πₐ can be solved deterministically in polynomial time, then P = NP",
+                "If  πₐ is NP-hard, then it is NP complete",
+                "πₐ may be undecidable"
+            ],
+            "correct_answer": "If  πₐ is NP-hard, then it is NP complete",
+            "correct_option_number": 3
+        },
+        {
+            "question_number": 15,
+            "question": "Which one of the following languages over the alphabet {0, 1} is described by the regular expression: (0 + 1) * 0(0 + 1) * 0(0 + 1) * ? ",
+            "options": [
+                "P only",
+                "Q only",
+                "Both P and Q",
+                "Neither P nor Q"
+            ],
+            "correct_answer": "Q only",
+            "correct_option_number": 2
+        },
+        {
+            "question_number": 16,
+            "question": "Which one of the following is FALSE?",
+            "options": [
+                "There is a unique minimal DFA for every regular language",
+                "Every NFA can be converted to an equivalent PDA",
+                "Complement of every context-free language is recursive",
+                "Every nondeterministic PDA can be converted to an equivalent deterministic PDA"
+            ],
+            "correct_answer": "Every nondeterministic PDA can be converted to an equivalent deterministic PDA",
+            "correct_option_number": 4
+        },
+        {
+            "question_number": 17,
+            "question": "Match all items in Group I with correct options from those given in Group 2\\n Group 1 \t Group 2\\nP.Regular expression \t 1.Syntax analysis\\nQ. Pushdown automata\t2. Code generation\\nR. Dataflow analysis\t3. Lexical analysis\\nS. Register allocation\t4. Code Optimization\\nCodes:",
+            "options": [
+                " P-4, Q-1, R-2, S-3",
+                "P-3, Q-1, R-4, S-2",
+                "P-3, Q-4, R-1, S-2",
+                " P-2, Q-1, R-4, S-3"
+            ],
+            "correct_answer": " P-3, Q-1, R-4, S-2",
+            "correct_option_number": 2
+        },
+        {
+            "question_number": 18,
+            "question": " Consider the program below:\\n#include<stdio.h>\\nint fun (int n, int *fp)\\n{\\nint t, f;\\nif ( n<= 1)\\n{\\n*fp = 1;\\nreturn 1;\\n}\\nt fun(n , fp\\nf = t+ * fp;\\n*fp = t;\\nreturn f;\\n}\\nint main( )\\n{\\nint x = 15;\\nprintf (“%d\n”, fun (5, &x ;\\nreturn 0;\\n}\\nThe value printed is",
+            "options": [
+                " 6",
+                "8",
+                "14",
+                " 15"
+            ],
+            "correct_answer": "8",
+            "correct_option_number": 2
+        },
+        {
+            "question_number": 19,
+            "question": "The coupling between different modules of a software is categorized as follows:\\nI. Content coupling II.\\nCommon coupling\\n III. Control coupling\\nIV. Stamp coupling\\nV. Data coupling\\nCoupling between modules can be ranked in the order of strongest (least desirable) to weakest(most desirable) as follows:",
+            "options": [
+                "I-II-III-IV-V",
+                "V-IV-III-II-I",
+                "I-III-V-II-IV",
+                "IV-II-V-III-I"
+            ],
+            "correct_answer": "I-II-III-IV-V",
+            "correct_option_number": 1
+        },
+        {
+            "question_number": 20,
+            "question": "Consider the HTML table definition given below://n< table border = 1 >\\n< tr > <td rowspan = 2 > ab </td>\\n<td colspan=2> cd</td>\\n</tr>\\n<tr> <td> ef </td>\\n<td rowspan = 2 > gh </td>\\n</tr>\\n<tr> <td colspan = 2 > ik </td>\\n</tr>\\n</table>\\nThe number of the rows in each column and the number of columns in each row are",
+            "options": [
+                "{2,2,3} and {2,3,2}",
+                "{2,2,3} and {2,2,3}",
+                "{2,3,2} and {2,3,2}",
+                "{2,3,2} and {2,2,3}"
+            ],
+            "correct_answer": "{2,2,3} and {2,2,3}",
+            "correct_option_number": 2
+        },
+        {
+            "question_number": 21,
+            "question": "An unbalanced dice (with 6 faces, numbered from 1 to 6) is thrown. The probability that the face value is odd is 90% of the probability that the face value is even. The probability of getting any even numbered face is the same. If the probability that the face is even given that it is greater than 3 is 0.75,which one of the following options is closest to the probability that the face value exceeds 3?",
+            "options": [
+                "0.453",
+                "0.468",
+                "0.485",
+                "0.492"
+            ],
+            "correct_answer": "0.468",
+            "correct_option_number": 2
+        },
+        {
+            "question_number": 23,
+            "question": "Which one of the following is the most appropriate logical formula to represent the statement “Gold and Silver ornaments are precious” The following notations are used:\\nG(x): x is a gold ornament\\nS(x): x is a silver ornament\\nP(x): x is precious",
+            "options": [
+                "∀x(P(x)→(G(x)∧S(x)))",
+                "∀x((G(x)∧S(x))→P(x))",
+                "∃x((G(x)∧S(x))→P(x))",
+                "∀x((G(x)∨S(x))→P(x))"
+            ],
+            "correct_answer": "∀x((G(x)∨S(x))→P(x))",
+            "correct_option_number": 4
+        },
+        {
+            "question_number": 24,
+            "question": "The binary operation ∨ is defined as follows ;\\nP\tQ\tP ∨ Q\\nT\tT\tT\\nT\tF\tT\\nF\tT\tF\\nF\tF\tT\\nWhich one of the following is equivalent to P∨Q?",
+            "options": [
+                "Q ∧ P",
+                "P ∨ Q",
+                " P ∧ Q",
+                "P ∨ Q"
+            ],
+            "correct_answer": "P ∨ Q",
+            "correct_option_number": 2
+        },
+        {
+            "question_number": 25,
+            "question": "0 to (π/4) of ∫(1-tanx)/(1+tanx) dx evaluates to",
+            "options": [
+                "0",
+                "1",
+                "ln 2",
+                "½ ln 2"
+            ],
+            "correct_answer": "½ ln 2",
+            "correct_option_number": 4
+        },
+        {
+            "question_number": 26,
+            "question": "Consider the following well-formed formulae:\\n i.ᆨ∀ x(P(x))\\n iiᆨ∃x(P(x))\\niii.  ᆨ∃x(ᆨP(x))\\niv. ∃x(ᆨP(x))  Which of the above are equivalent?",
+            "options": [
+                "i and iii",
+                "i and iv ",
+                "ii and iii ",
+                "ii and iv "
+            ],
+            "correct_answer": "i and iv",
+            "correct_option_number": 2
+        },
+        {
+            "question_number": 27,
+            "question": " Given the following state table of an FSM with two states A and B, one input and one output:\\nPresent State A\tPresent State B\tInput\tNext State A\tNext State B\tOut put\\n0\t0\t0\t0\t0\t1\\n0\t1\t0\t1\t0\t0\\n1\t0\t0\t0\t1\t0\\n1\t1\t0\t1\t0\t0\\n0\t0\t1\t0\t1\t0\\n0\t1\t1\t0\t0\t1\\n1\t0\t1\t0\t1\t1\\n1\t1\t1\t0\t0\t1\\nIf the initial state is A = 0, B = 0, what is the minimum length of an input string which will take the machine to the state A = 0, B = 1 with Output = 1?",
+            "options": [
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "correct_answer": "3",
+            "correct_option_number": 1
+        },
+        {
+            "question_number": 28,
+            "question": "Consider a 4 stage pipeline processor.\\nThe number of cycle needed by the four\\ninstructions I1,I2,I3,I4 in stages S1, S2,\\nS3, S4 is shown below:\\n\tS1\tS2\tS3\tS4\\nI1\t2\t1\t1\t1\\nI2\t1\t3\t2\t2\\nI3\t2\t1\t1\t3\\nI4\t1\t2\t2\t2\\nWhat is the number of cycles needed to execute the following loop?\\nfor (i=1 to 2) {I1; I2; I3; I4 ;}",
+            "options": [
+                "16",
+                "23",
+                "28",
+                "30"
+            ],
+            "correct_answer": "23",
+            "correct_option_number": 2
+        },
+        {
+            "question_number": 29,
+            "question": "Consider a 4-way set associative cache (initially empty) with total 16 cache blocks. The main memory consists of 256 blocks and the request for memory blocks is in the following order: 0,255,1,4,3,8,133,159,216,129,63,8,48,32, 73, 92,155 Which one of the following memory block will not be in cache if LRU replacement policy is used?",
+            "options": [
+                "3",
+                "8",
+                "129",
+                "216"
+            ],
+            "correct_answer": "216",
+            "correct_option_number": 4
+        },
+        {
+            "question_number": 30,
+            "question": " Consider a system with 4 types of resources R1 (3 units), R2 (2 units),\\nR3 (3 units), R4 (2 units).\\nA non-preemptive resource allocation policy is used. At any given instance, a request is not entertained\\nif it cannot be completely satisfied. Three processes\\nP1,P2,P3 request the resources as follows if executed independently.\\nProcess p1 :\tProcess p2:\tProcess p3:\\nWhich one of the following statements is TRUE if all three processes run concurrently starting at time t= 0?",
+            "options": [
+                "All processes will finish without any deadlock",
+                "Only P1 and P2 will be in a deadlock",
+                "Only P1 and P3 will be in deadlock",
+                "All three processes will be in deadlock"
+            ],
+            "correct_answer": "All processes will finish without any deadlock",
+            "correct_option_number": 1
+        },
+        {
+            "question_number": 31,
+            "question": "Consider n disk system with 100 cylinders. The requests to access the cylinders occur in the following sequence:4, 34, 10, 7, 19, 73, 2, 15, 6, 20\\nAssuming that the head is currently at cylinder 50, what is the time taken to satisfy all requests if it takes 1 ms to move from one cylinder to adjacent one and shortest seek time first policy is used? ",
+            "options": [
+                "95",
+                "119",
+                "233",
+                "276"
+            ],
+            "correct_answer": "119",
+            "correct_option_number": 2
+        },
+        {
+            "question_number": 32,
+            "question": "A multilevel page table is preferred in comparison to a single level page table for translating virtual address to physical address because",
+            "options": [
+                "It reduces the memory access time to read or write a memory location",
+                "It helps to reduce the size of page table needed to implement the virtual address space of a process",
+                "It is required by the translation look a side buffer",
+                " It helps to reduce the number of page faults in page replacement algorithms."
+            ],
+            "correct_answer": "It helps to reduce the size of page table needed to implement the virtual address space of a process",
+            "correct_option_number": 2
+        },
+        {
+            "question_number": 33,
+            "question": "The running time of an algorithm is represented by the following recurrence relation: T(n)={ n if n<=3\\nT(n/3)+cn otherwise otherwise Which one of the following represents the time complexity of the algorithm?",
+            "options": [
+                "θ(n)",
+                "θ(n log n)",
+                "θ(n²)",
+                "θ(n² log n)"
+            ],
+            "correct_answer": "θ(n)",
+            "correct_option_number": 1
+        },
+        {
+            "question_number": 34,
+            "question": "What is the maximum height of any AVL- tree with 7 nodes? Assume that the height of a tree with a single node is 0",
+            "options": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "correct_answer": "3",
+            "correct_option_number": 2
+        },
+        {
+            "question_number": 35,
+            "question": "In quick sort, for sorting n elements, the (n/4)th  smallest element is selected as pivot using an O(n) time algorithm. What is the worst case time complexity of the quick sort?",
+            "options": [
+                "θ(n)",
+                "θ(n log n)",
+                "θ(n²)",
+                "θ(n² log n)"
+            ],
+            "correct_answer": "θ(n log n)",
+            "correct_option_number": 2
+        },
+        {
+            "question_number": 36,
+            "question": "Let L = L1 ∩ L2, where L1 and L2 are languages as defined below:\\nL1={aⁿbⁿ c aⱽbⱽ | n,v >=0 }\\nL2={aⁱbˣcˢ | i,x,s >= 0 }\\nThen L is ",
+            "options": [
+                " Not recursive",
+                "regular",
+                "context-free but not regular",
+                "recursively enumerable but not context-free"
+            ],
+            "correct_answer": "context-free but not regular",
+            "correct_option_number": 3
+        },
+        {
+            "question_number": 37,
+            "question": ". Which of the following statements are TRUE?\nI. There exists parsing algorithm for some programming languages whose complexities are less then Θ(n³)\n II. A programming language which allows recursion to be implemented with static storage allocation\\n III. No L-attributed definition can be evaluated in the framework of bottom-up parsing\\nIV. Code improving transformations can be performed at both source language & intermediate code level ",
+            "options": [
+                "I & II",
+                "I & IV",
+                "III & IV",
+                "I,III & IV"
+            ],
+            "correct_answer": "I & IV",
+            "correct_option_number": 2
+        },
+        {
+            "question_number": 38,
+            "question": "Consider two transactions T1 and T2, and four schedules S1, S2, S3, S4 of T1 and T2 as given below\\nT1: R1[x]W1[x]W1[y]\\nT2: R2[x]R2[y]W2[y]\\nS1:R1[x]R2[x]R2[y]W1[x]W1[y]W2[y]\\nS2:R1[x]R2[x]R2[y]W1[x]W2[y]W1[y]\\nS3:R1[x]W1[x]R2[x]W1[y]R2[y]W2[y]\\nS4: R2[x]R2[y]R1[x]W1[x]W1[y]W2[y]\\nWhich of the above sche dules are conflict-serializable?",
+            "options": [
+                "S1 and S2 ",
+                "S2 and S3",
+                "S3 only",
+                "S4 only"
+            ],
+            "correct_answer": "S2 and S3",
+            "correct_option_number": 2
+        },
+        {
+            "question_number": 39,
+            "question": "The following key values are inserted into a B+-tree in which order of the internal nodes is 3, and that of the leaf nodes is 2, in the sequence given below. The order of internal nodes is the maximum number of tree pointers in each node, and the order of leaf nodes is the maximum number of data items that can be stored in it. The B+-tree is initially empty. 10, 3, 6, 8, 4, 2, 1. The maximum number of times leaf nodes would get split up as a result of these insertions is",
+            "options": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "correct_answer": "4",
+            "correct_option_number": 3
+        },
+        {
+            "question_number": 40,
+            "question": "While opening a TCP connection, the initial sequence number is to be derived using a time of day (TOD) clock that keeps running even when the host is down. The low order 32 bits of the counter of the TOD clock is to be used for the initial sequence number. The clock counter increments once per millisecond. The maximum packet lifetime is given to be 64s.Which one of the choices given below is closest to the minimum permissible rate at which sequence number used for packets of a connection can increase?",
+            "options": [
+                "0.015/s",
+                "0.064/s",
+                "0.135/s",
+                "0.327/s"
+            ],
+            "correct_answer": "0.015/s",
+            "correct_option_number": 1
+        },
+        {
+            "question_number": 41,
+            "question": ". Let G(x) be the generator polynomial used for CRC checking. What is the condition that should be satisfied by G(x) to detect odd Number of bits in error?",
+            "options": [
+                "G(x) contains more than two terms",
+                "G(x) does not divide 1 + xK , for any K not exceeding the frame length",
+                "1 + x is a factor of G(x)",
+                "G(x) has an odd number of terms"
+            ],
+            "correct_answer": "1 + x is a factor of G(x)",
+            "Correct_option_number": 2
+        },
+        {
+            "question_number": 42,
+            "question": "Which of the following statements are TRUE? I The context diagram should depict the system as a single bubble.\\nII. External entities should be identified clearly at all levels of DFDs.\\nIII. Control information should not be represented in a DFD\\n IV. A data store can be connected either to another data store or to an external entity",
+            "options": [
+                "II and III",
+                "I,II and IV",
+                "I and II",
+                "I,II and III"
+            ],
+            "correct_answer": "I and III",
+            "Correct_option_number": 3
+        },
+        {
+            "question_number": 43,
+            "question": "Consider the following statements about the cyclomatic complexity of the control flow graph of a program module. Which of these are TRUE?\\nI. The cyclomatic complexity of a module is equal to the maximum number of linearly independent circuits in the graph\\n II. The cyclomatic complexity of a module is the number of decisions in the module plus one, where a decision is effectively any conditional statement in the module.\\nIII. The cyclomatic complexity can also be used as a number of linearly independent paths that should be tested during path coverage testing",
+            "options": [
+                "I and II",
+                "II and III",
+                "I and III",
+                "I,II and III"
+            ],
+            "correct_answer": "II and III",
+            "Correct_option_number": 2
+        },
+        {
+            "question_number": 44,
+            "question": "A hard disk has 63 sectors per track, 10 platters each with 2 recording surfaces and 1000 cylinders.The address of a sector is given as a triple〈c, h, s〉, where c is the cylinder number, h is the surface number and s is the sector number. Thus, the 0th sector is addressed as 〈 0,0,0〉 , the 1st sector as〈0,0,1〉 and so on.\\nThe address 〈400,16,29〉 corresponds to sector number:",
+            "options": [
+                "505035",
+                "505036",
+                "505037",
+                "505038"
+            ],
+            "correct_answer": "505037",
+            "Correct_option_number": 3
+        },
+        {
+            "question_number": 45,
+            "question": "A hard disk has 63 sectors per track, 10 platters each with 2 recording surfaces and 1000 cylinders.The address of a sector is given as a triple〈c, h, s〉, where c is the cylinder number, h is the surface number and s is the sector number. Thus, the 0th sector is addressed as 〈 0,0,0〉 , the 1st sector as〈0,0,1〉 and so on.\\nThe address of 1039 th sector is",
+            "options": [
+                "(0,15,31)",
+                "(0,16,30)",
+                "(0,16,31)",
+                "(0,17,31)"
+            ],
+            "correct_answer": "(0,16,31)",
+            "Correct_option_number": 3
+        },
+        {
+            "question_number": 46,
+            "question": "Consider the following relational schema: Suppliers (sid:integer, sname: string, city:string, street: string) Parts (pid:integer, pname: string, color:string) Catalog (sid:integer, pid:integer, cost: real).\\nConsider the following relational query on the above database: SELECT S.sname FROM Suppliers S WHERE S.sid NOT IN (SELECT C. sid FROM Catalog C WHERE C.pid NOT IN (SELECT P.pid FROM Parts P HE E P.color<> ‘blue’))\\n Assume that relations corresponding to the above schema are not empty. Which one of the following is the correct interpretation of the above query?",
+            "options": [
+                "Find the names of all suppliers who have supplied a non-blue part",
+                "Find the names of all suppliers who have not supplied a non-blue part",
+                "Find the names of all suppliers who have supplied only blue parts ",
+                "Find the names of all suppliers who have not supplied only blue part"
+            ],
+            "correct_answer": "Find the names of all suppliers who have supplied a non-blue part",
+            "correct_option_number": 1
+        },
+        {
+            "question_number": 47,
+            "question": "Consider the following relational schema: Suppliers (sid:integer, sname: string, city:string, street: string) Parts (pid:integer, pname: string, color:string) Catalog (sid:integer, pid:integer, cost: real).\\nAssume that, in the suppliers relation above, each supplier and each street within a city has a unique name, and (sname, city) forms a candidate key. No other functional dependencies are implied other than those implied by primary and candidate keys. Which one of the following is TRUE about the above schema?",
+            "options": [
+                "The schema is in BCNF",
+                "The schema is in 3NF but not in BCNF",
+                "The schema is in 2NF but not in 3 NF",
+                "The schema is not in 2NF"
+            ],
+            "correct_answer": "The schema is in 3NF but not in BCNF",
+            "correct_option_number": 2
+        },
+        {
+            "question_number": 48,
+            "question": "Frames of 1000 bits are sent over a 10⁶ bps duplex link between two Hosts. The propagation time is 25 ms. Frames are to be transmitted into this link to maximally pack them in transit (within the link). What is the minimum number of bits (l) that will required to represent the sequence numbers distinctly? Assume that no time gap needs to be given between transmission of two frames.",
+            "options": [
+                "l=2",
+                "l=3",
+                "l=4",
+                "l=5"
+            ],
+            "correct_answer": "l=5",
+            "correct_option_number": 4
+        },
+        {
+            "question_number": 49,
+            "question": "Frames of 1000 bits are sent over a 10⁶ bps duplex link between two Hosts. The propagation time is 25 ms. Frames are to be transmitted into this link to maximally pack them in transit (within the link). Suppose that the sliding window protocol is used with the sender window size of 2ˡ where l is the number of bits identified in the earlier part & acknowledgments are always piggy backed. After sending 2ˡ frames, what is the minimum time the sender will have to wait before starting transmission of the next frame? (Identify the closest choice ignoring the frame processing time).",
+            "options": [
+                "16 ms",
+                "18 ms",
+                "20 ms",
+                "22 ms"
+            ],
+            "correct_answer": "20 ms",
+            "correct_option_number": 3
+        },
+        {
+            "question_number": 50,
+            "question": "Which one of the following array represents a binary max- heap?",
+            "options": [
+                "{25, 12, 16, 13, 10, 8, 14}",
+                "{25, 14, 13, 16, 10, 8, 12}",
+                "{25, 14, 16, 13, 10, 8, 12}",
+                "{25, 14, 12, 13, 10, 8, 16}"
+            ],
+            "correct_answer": "{25, 14, 16, 13, 10, 8, 12}",
+            "correct_option_number": 3
+        },
+        {
+            "question_number": 51,
+            "question": "Which is the content of the array after two delete operations on the correct answer to the previous question?",
+            "options": [
+                "{14, 13, 12, 10, 8}",
+                "{14, 12, 13, 8,10}",
+                "{14, 13, 8, 12, 10}",
+                "{14, 13, 12, 8, 10}"
+            ],
+            "correct_answer": "{14, 13, 12, 8, 10}",
+            "correct_option_number": 4
+        }
+    ]
+}
